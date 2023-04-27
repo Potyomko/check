@@ -1,0 +1,51 @@
+{
+  "students": [
+    {
+      "age": 15,
+      "phone": "0986627178",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "age": 21,
+      "email": "jane.smith@example.com",
+      "phone": "555-5678"
+    },
+    {
+      "name": "Veronika Potyomko",
+      "age": 13,
+      "email": "vnpotomko@gmail.com",
+      "phone": "0682891773",
+      "id": 4
+    },
+    {
+      "name": "Veronika Potyomko",
+      "age": 13,
+      "email": "vnpotomko@gmail.com",
+      "phone": "0682891773",
+      "id": 5
+    },
+    {
+      "name": "Veronika Potyomko",
+      "age": 13,
+      "email": "vnpotomko@gmail.com",
+      "phone": "0682891773",
+      "id": 6
+    },
+    {
+      "name": "Veronika Potyomko",
+      "age": 13,
+      "email": "vnpotomko@gmail.com",
+      "phone": "0682891773",
+      "id": 7
+    },
+    {
+      "name": "Veronika Potyomko",
+      "age": 13,
+      "email": "vnpotomko@gmail.com",
+      "phone": "0682891773",
+      "id": 8
+    }
+  ]
+}
